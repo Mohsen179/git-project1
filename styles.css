@@ -7,3 +7,9 @@ header {
     margin-top: 200px;
     font-size: 1rem;
 }
+
+.section1 {
+    background-color: green;
+    color: white;
+    margin-top: 100px;
+}
